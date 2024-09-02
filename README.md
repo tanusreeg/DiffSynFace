@@ -26,9 +26,6 @@ We generated a minimum of 40 images for each 'early', 'mid', and 'late' category
 
 
 
-For detailed statistics on the dataset, please refer to the [paper].
-
-
 
 ## Access
 
