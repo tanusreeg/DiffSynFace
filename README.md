@@ -1,5 +1,6 @@
 # DiffSynFace
-![DiffSynFace photos](https://github.com/user-attachments/assets/00ef6082-25a5-46ca-81ad-809a74dfb5ae)
+![DiffSynFace photos](https://github.com/user-attachments/assets/c6895417-76a5-41ce-a403-b7309d889e78)
+
 
 ## Overview
 ### Dataset Description
