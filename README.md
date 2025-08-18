@@ -1,4 +1,6 @@
 # DiffSynFace
+
+Synthetic face images generated using 7 generative models.
 ![DiffSynFace photos](https://github.com/user-attachments/assets/c6895417-76a5-41ce-a403-b7309d889e78)
 
 
