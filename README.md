@@ -30,9 +30,11 @@ We generated a minimum of 40 images for each 'early', 'mid', and 'late' category
 
 ## Access
 
+Please fill-in the DeepSynFace_Request_Form linked below, and email it to ruchira@it.iiests.ac.in to request access to InDeepFake
 
-If you would like to download the DiffSynFace dataset, please fill out [this](https://docs.google.com/forms/d/1GIFmg3hzOK5jbz3S6CnNzhS-1iYyar3zsnpigy35qNI/edit) google form and, once accepted, we will send you the link to the dataset.
-Students should request access to DiffSynFace through their academic advisor/ supervisor.
+DeepSynFace_Access_Request_Form.pdf
+
+We will review your request and respond as soon as possible.
 
 ## Help
 
