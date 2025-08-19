@@ -1,6 +1,6 @@
 # DiffSynFace
 
-Synthetic face images generated using 7 generative models.
+A dataset of 40k+ synthetic human faces belonging to diverse ethnicities, age groups, and genders, synthesised by seven popular diffusion models
 
 
 
