@@ -1,6 +1,6 @@
 # DiffSynFace
 
-A dataset of 40k+ synthetic human faces belonging to diverse ethnicities, age groups, and genders, synthesised by seven popular diffusion models
+A dataset of 40k+ synthetic human faces belonging to diverse ethnicities, age groups, and genders, synthesised by seven popular diffusion models.
 
 
 
