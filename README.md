@@ -35,7 +35,7 @@ We generated a minimum of 40 images for each 'early', 'mid', and 'late' category
 
 ## Access
 
-Please fill-in the DeepSynFace_Request_Form linked below, and email it to ruchira@it.iiests.ac.in to request access to InDeepFake
+Please fill-in the DeepSynFace_Request_Form linked below, and email it to ruchira@it.iiests.ac.in to request access to DiffSynFace
 
 [DiffSynFace_Access_Request_Form.pdf](https://github.com/tanusreeg/DiffSynFace/blob/main/DiffSynFace_Access_Request_Form.pdf)
 
