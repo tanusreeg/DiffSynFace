@@ -43,4 +43,8 @@ We will review your request and respond as soon as possible.
 
 ## Citation
 
-Coming Soon
+All researches that use the dataset or any part of it must cite the following paper:
+
+T. Ghosh, B. Seth, S. Kar, and R. Naskar, "Evaluating the Substitutability of Generative AI-Generated Faces in Biometric Applications: From a Lens of Age, Gender, Ethnicity Detection", Pattern Recognition Letters, Elsevier, Volume 197, 2025, Pages 257-266, 2025. 
+
+Paper Link: https://doi.org/10.1016/j.patrec.2025.08.013
