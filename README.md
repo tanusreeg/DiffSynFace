@@ -41,6 +41,8 @@ Please fill-in the DeepSynFace_Request_Form linked below, and email it to ruchir
 
 We will review your request and respond as soon as possible.
 
+The dataset is also available on IEEE DataPort [https://ieee-dataport.org/documents/diffsynface-demographically-age-gender-and-ethnicity-diverse-synthetic-face-dataset].
+
 ## Citation
 
 All researches that use the dataset or any part of it must cite the following paper:
